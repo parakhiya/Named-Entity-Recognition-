@@ -74,7 +74,7 @@ If you want to contribute to the project kindly mail me at `sauravvmaheshkar@gma
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
-The data for this project was taken from kaggle datasets. The owner of the dataset is [student zero](https://www.kaggle.com/jixing475). You can find the dataset [here](https://www.kaggle.com/jixing475/mayo-clinic-primary-biliary-cirrhosis-data).
+The data for this project was taken from kaggle datasets. The owner of the dataset is [Abhinav Walia](https://www.kaggle.com/abhinavwalia95). You can find the dataset [here](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus).
 
 - Copyright 2020 @[Saurav Maheshkar](https://sauravmaheshkar.github.io/)
 - [MIT License](https://opensource.org/licenses/MIT)
@@ -86,5 +86,5 @@ The inspiration for this readme file came from
 - [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46#license)
 - [Navendu Pottekkat](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
 
-Description of the CoxPH came froom
+Description of Named Entity Recognition came froom
 - [Wikipedia](https://en.wikipedia.org/wiki/Named-entity_recognition)
